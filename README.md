@@ -23,8 +23,8 @@ This project implements a robust and secure RESTful API designed to power a mode
 ## Technologies Used
 
 * **Backend:** Node.js, Express.js
-* **Database:** [Specify your database, e.g., MongoDB, PostgreSQL, MySQL]
-* **Authentication:** JWT (JSON Web Tokens), [Add other authentication libraries if used, e.g., Passport.js, Bcrypt]
+* **Database:**  MongoDB
+* **Authentication:** JWT (JSON Web Tokens)
 * **Other Libraries:** [List any other significant npm packages used, e.g., Mongoose for MongoDB, Multer for file uploads, Dotenv for environment variables, etc.]
 
 ## Getting Started
@@ -33,9 +33,9 @@ This project implements a robust and secure RESTful API designed to power a mode
 
 Make sure you have the following installed on your machine:
 
-* Node.js ([Specify version, e.g., v18.x.x or higher])
+* Node.js (v18.x.x or higher)
 * npm (Node Package Manager)
-* [Your Database] installed and running (e.g., MongoDB Community Server, PostgreSQL)
+* MongoDB Community Serve
 
 ### Installation
 
